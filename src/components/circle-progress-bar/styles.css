@@ -1,0 +1,26 @@
+@value grayStatic, greenAtlantis, blueDark from '../../common/variables.css';
+
+.percent {
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.chart {
+    position: relative;
+}
+
+.successBar {
+    fill: greenAtlantis
+}
+
+.progressBar {
+    fill: blueDark
+}
+
+.staticBar {
+    fill: grayStatic
+}

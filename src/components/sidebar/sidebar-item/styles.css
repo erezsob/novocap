@@ -1,0 +1,21 @@
+@value separatorBg #eaeaea;
+
+.item {
+    font-size: 15px;
+    letter-spacing: 0.05em;
+}
+
+.item:after {
+    content: '';
+    background-color: separatorBg;
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.icon {
+    color: inherit;
+    font-weight: bold;
+}

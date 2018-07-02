@@ -1,0 +1,9 @@
+Makefile
+Dockerfile
+README.md
+.cache
+dist
+node_modules
+.git
+requirements.txt
+.gitignore

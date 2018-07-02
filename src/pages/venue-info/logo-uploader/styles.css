@@ -1,0 +1,45 @@
+@value defaultText, blueLight, offWhite, newBlack from '../../../common/variables.css';
+
+.cloudLogo {
+    color: lightGray;
+}
+
+.text1 {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: bold;
+    color: newBlack;
+}
+
+.text2,
+.text3 {
+    font-size: 11px;
+    line-height: 14px;
+}
+
+.text2 {
+    color: defaultText;
+}
+
+.text3 {
+    color: blueLight;
+}
+
+.dashedBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    border: 2px dashed offWhite;
+    text-align: center;
+    height: auto;
+    padding: 10px 0;
+}
+
+@media (min-width: 960px) and (min-device-width: 960px) {
+    .dashedBox {
+        height: 245px;
+        padding: 0;
+    }
+}

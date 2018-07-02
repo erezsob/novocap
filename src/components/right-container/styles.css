@@ -1,0 +1,9 @@
+@value offWhite, headerHeight, fullVPHeight from '../../common/variables.css';
+
+.widgetsContainer {
+    background-color: offWhite;
+    height: calc(fullVPHeight - headerHeight);
+    overflow: scroll;
+    position: relative;
+
+}

@@ -1,0 +1,37 @@
+@value
+bpMedium,
+bpLarge,
+zIndexMax,
+zIndexMin,
+sidebarTransformMin,
+sidebarTransformMax,
+sidebarTransition from '../../common/variables.css';
+
+.sidebar {
+    z-index: zIndexMax;
+    position: absolute;
+    transform: translateX(sidebarTransformMin);
+    transition: sidebarTransition;
+}
+
+.active {
+    position: absolute;
+    z-index: zIndexMax;
+    transform: translateX(sidebarTransformMax);
+    transition: sidebarTransition;
+}
+
+@media (min-width: bpLarge) and (min-device-width: bpLarge) {
+    .sidebar {
+        display: block;
+        position: static;
+        z-index: zIndexMin;
+        transform: translateX(sidebarTransformMax);
+    }
+
+    .active {
+        display: block;
+        position: static;
+        z-index: zIndexMin;
+    }
+}

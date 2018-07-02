@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ItemsPerPage /> renders correctly 1`] = `
+<div
+  className="container"
+>
+  <span>
+    Show
+  </span>
+  <button
+    className="button"
+    onClick={[Function]}
+  >
+    20
+  </button>
+  <span>
+    items per page
+  </span>
+</div>
+`;

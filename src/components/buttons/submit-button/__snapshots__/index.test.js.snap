@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<button
+  className="MuiButtonBase-root-17 MuiButton-root-2 SubmitButton-submit-1"
+  disabled={false}
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex="0"
+  type="submit"
+>
+  <span
+    className="MuiButton-label-3"
+  >
+    Save
+  </span>
+  <span
+    className="MuiTouchRipple-root-20"
+  />
+</button>
+`;

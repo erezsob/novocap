@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CircleProgressBar /> renders properly 1`] = `
+<div>
+  <div
+    className="rv-xy-plot chart rv-radial-chart"
+    style={
+      Object {
+        "height": "150px",
+        "width": "150px",
+      }
+    }
+  >
+    <svg
+      className="rv-xy-plot__inner"
+      height={150}
+      onClick={[Function]}
+      onDoubleClick={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseMove={[Function]}
+      onWheel={[Function]}
+      style={undefined}
+      width={150}
+    >
+      <g
+        className="rv-xy-plot__series--arc__animation-wrapper"
+      >
+        <g
+          className="rv-xy-plot__series rv-xy-plot__series--arc chart"
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          opacity={1}
+          pointerEvents="none"
+          transform="translate(75,75)"
+        >
+          <path
+            className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice staticBar"
+            d="M56.63118960624632,-41.144967660473114A70,70,0,1,1,4.9313697987961557e-14,-70L4.226888398968133e-14,-60A60,60,0,1,0,48.54101966249685,-35.26711513754838Z"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            style={
+              Object {
+                "fill": 0,
+                "opacity": 1,
+                "stroke": 0,
+              }
+            }
+          />
+          <path
+            className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice progressBar"
+            d="M4.2862637970157365e-15,-70A70,70,0,0,1,56.63118960624632,-41.144967660473114L48.54101966249685,-35.26711513754838A60,60,0,0,0,3.67394039744206e-15,-60Z"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            style={
+              Object {
+                "fill": 1,
+                "opacity": 1,
+                "stroke": 1,
+              }
+            }
+          />
+          <path
+            className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice successBar"
+            d="M4.2862637970157365e-15,-70L3.67394039744206e-15,-60Z"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            style={
+              Object {
+                "fill": 2,
+                "opacity": 1,
+                "stroke": 2,
+              }
+            }
+          />
+        </g>
+        <g
+          className="rv-xy-plot__series rv-xy-plot__series--arc chart"
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          opacity={0}
+          pointerEvents="all"
+          transform="translate(75,75)"
+        >
+          <path
+            className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice staticBar"
+            d="M56.63118960624632,-41.144967660473114A70,70,0,1,1,4.9313697987961557e-14,-70L4.226888398968133e-14,-60A60,60,0,1,0,48.54101966249685,-35.26711513754838Z"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            style={
+              Object {
+                "fill": 0,
+                "opacity": 1,
+                "stroke": "red",
+              }
+            }
+          />
+          <path
+            className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice progressBar"
+            d="M4.2862637970157365e-15,-70A70,70,0,0,1,56.63118960624632,-41.144967660473114L48.54101966249685,-35.26711513754838A60,60,0,0,0,3.67394039744206e-15,-60Z"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            style={
+              Object {
+                "fill": 1,
+                "opacity": 1,
+                "stroke": "red",
+              }
+            }
+          />
+          <path
+            className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice successBar"
+            d="M4.2862637970157365e-15,-70L3.67394039744206e-15,-60Z"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            style={
+              Object {
+                "fill": 2,
+                "opacity": 1,
+                "stroke": "red",
+              }
+            }
+          />
+        </g>
+      </g>
+    </svg>
+  </div>
+  <b
+    className="percent"
+  >
+    15%
+  </b>
+</div>
+`;

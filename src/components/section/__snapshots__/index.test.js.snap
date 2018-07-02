@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Section /> renders properly 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="MuiGrid-typeContainer-1 MuiGrid-spacing-xs-24-24 MuiGrid-justify-xs-center-18"
+  >
+    <div
+      className="MuiGrid-typeItem-2 MuiGrid-grid-xs-12-38"
+    >
+      <div
+        className="title"
+      />
+    </div>
+    <dummy-children>
+      Dummy Child
+    </dummy-children>
+    <dummy-children>
+      Dummy Child
+    </dummy-children>
+  </div>
+</div>
+`;

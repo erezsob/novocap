@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Hint /> renders correctly 1`] = `
+<div
+  className="hint"
+>
+  <small
+    className="small"
+  >
+    TestTitle
+  </small>
+  <div
+    className="value"
+  >
+    € 200.00
+  </div>
+</div>
+`;

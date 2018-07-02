@@ -1,0 +1,6 @@
+@value errorText from '../../common/variables.css';
+
+.error {
+    font-size: 12px;
+    color: errorText
+}

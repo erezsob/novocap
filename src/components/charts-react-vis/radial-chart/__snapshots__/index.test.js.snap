@@ -1,0 +1,210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CustomRadialChart /> renders properly 1`] = `
+<div>
+  <div
+    className="label"
+  >
+    Sales
+  </div>
+  <div
+    className="container"
+  >
+    <div
+      className="rv-xy-plot chart rv-radial-chart"
+      style={
+        Object {
+          "height": "250px",
+          "width": "250px",
+        }
+      }
+    >
+      <svg
+        className="rv-xy-plot__inner"
+        height={250}
+        onClick={[Function]}
+        onDoubleClick={[Function]}
+        onMouseDown={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        onWheel={[Function]}
+        style={undefined}
+        width={250}
+      >
+        <g
+          className="rv-xy-plot__series--arc__animation-wrapper"
+        >
+          <g
+            className="rv-xy-plot__series rv-xy-plot__series--arc chart"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            opacity={1}
+            pointerEvents="none"
+            transform="translate(125,125)"
+          >
+            <path
+              className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice "
+              d="M7.34788079488412e-15,-120L6.735557395310443e-15,-110Z"
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onMouseOut={[Function]}
+              onMouseOver={[Function]}
+              style={
+                Object {
+                  "fill": "#FFD968",
+                  "opacity": 1,
+                  "stroke": "#FFD968",
+                }
+              }
+            />
+            <path
+              className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice "
+              d="M7.34788079488412e-15,-120L6.735557395310443e-15,-110Z"
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onMouseOut={[Function]}
+              onMouseOver={[Function]}
+              style={
+                Object {
+                  "fill": "#00A3E0",
+                  "opacity": 1,
+                  "stroke": "#00A3E0",
+                }
+              }
+            />
+            <path
+              className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice "
+              d="M7.34788079488412e-15,-120L6.735557395310443e-15,-110Z"
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onMouseOut={[Function]}
+              onMouseOver={[Function]}
+              style={
+                Object {
+                  "fill": "#E51743",
+                  "opacity": 1,
+                  "stroke": "#E51743",
+                }
+              }
+            />
+          </g>
+          <g
+            className="rv-xy-plot__series rv-xy-plot__series--arc chart"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            opacity={0}
+            pointerEvents="all"
+            transform="translate(125,125)"
+          >
+            <path
+              className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice "
+              d="M7.34788079488412e-15,-120L6.735557395310443e-15,-110Z"
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onMouseOut={[Function]}
+              onMouseOver={[Function]}
+              style={
+                Object {
+                  "fill": "#FFD968",
+                  "opacity": 1,
+                  "stroke": "red",
+                }
+              }
+            />
+            <path
+              className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice "
+              d="M7.34788079488412e-15,-120L6.735557395310443e-15,-110Z"
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onMouseOut={[Function]}
+              onMouseOver={[Function]}
+              style={
+                Object {
+                  "fill": "#00A3E0",
+                  "opacity": 1,
+                  "stroke": "red",
+                }
+              }
+            />
+            <path
+              className="rv-xy-plot__series rv-xy-plot__series--arc-path rv-radial-chart__series--pie__slice "
+              d="M7.34788079488412e-15,-120L6.735557395310443e-15,-110Z"
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onMouseOut={[Function]}
+              onMouseOver={[Function]}
+              style={
+                Object {
+                  "fill": "#E51743",
+                  "opacity": 1,
+                  "stroke": "red",
+                }
+              }
+            />
+          </g>
+        </g>
+        <g
+          className="rv-xy-plot__series rv-xy-plot__series--label undefined"
+          transform="translate(5,5)"
+        >
+          <text
+            alignmentBaseline="text-before-edge"
+            className="rv-xy-plot__series--label-text"
+            fontSize="12px"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            textAnchor="end"
+            transform="rotate(0,120,-12)"
+            x={120}
+            y={-12}
+          >
+            Other
+          </text>
+          <text
+            alignmentBaseline="text-before-edge"
+            className="rv-xy-plot__series--label-text"
+            fontSize="12px"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            textAnchor="end"
+            transform="rotate(0,120,-12)"
+            x={120}
+            y={-12}
+          >
+            Drinks
+          </text>
+          <text
+            alignmentBaseline="text-before-edge"
+            className="rv-xy-plot__series--label-text"
+            fontSize="12px"
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onMouseOut={[Function]}
+            onMouseOver={[Function]}
+            textAnchor="end"
+            transform="rotate(0,120,-12)"
+            x={120}
+            y={-12}
+          >
+            Food
+          </text>
+        </g>
+      </svg>
+    </div>
+    <div
+      className="total"
+    >
+      NaN
+    </div>
+  </div>
+</div>
+`;

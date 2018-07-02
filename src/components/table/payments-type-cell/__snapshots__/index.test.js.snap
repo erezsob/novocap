@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PaymentTypesCell /> renders properly 1`] = `
+<span>
+  <span
+    className="item"
+  >
+    Cash
+  </span>
+  <span
+    className="item"
+  >
+    EC
+  </span>
+</span>
+`;

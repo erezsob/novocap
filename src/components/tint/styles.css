@@ -1,0 +1,15 @@
+@value
+zIndexAlmostMax,
+fullVPHeight,
+fullVPWidth,
+blackLight
+from '../../common/variables.css';
+
+.tint {
+    z-index: zIndexAlmostMax;
+    opacity: 1;
+    height: fullVPHeight;
+    width: fullVPWidth;
+    position: absolute;
+    background-color: blackLight;
+}

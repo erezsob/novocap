@@ -1,0 +1,26 @@
+@value defaultText, bpSmall from '../../../common/variables.css';
+
+.dateHours,
+.dateMonth {
+    display: block;
+}
+
+.dateMonth {
+    color: defaultText;
+}
+
+@media (min-width: bpSmall) and (min-device-width: bpSmall) {
+    .dateHours,
+    .dateMonth {
+        display: inline-block;
+    }
+
+    .dateHours {
+        padding-left: 7px;
+    }
+
+    .dateMonth {
+        padding-right: 7px;
+        border-right: 1px solid defaultText;
+    }
+}

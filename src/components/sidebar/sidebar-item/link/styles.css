@@ -1,0 +1,45 @@
+@value blueDark, dashboardMenuItemHeight, otherBlue from '../../../../common/variables.css';
+
+.icon {
+    color: inherit;
+    font-weight: bold;
+}
+
+.link {
+    display: block;
+    line-height: dashboardMenuItemHeight;
+    width: 100%;
+    text-decoration: none;
+}
+
+.linkContent {
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0 0 0 10px;
+}
+
+.arrow {
+    position: absolute;
+    right: 0;
+    top: calc(50% - 12px);
+    bottom: 0;
+}
+
+.inactive {
+    pointer-events: none;
+}
+
+.selected {
+    background-color: otherBlue;
+}
+
+.selected:before {
+    border-left: 5px solid blueDark;
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 2px;
+    bottom: 2px;
+
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "address": {
+      "address1": "Evergreen",
+      "address2": "",
+      "city": "Las Vegas",
+      "country": "USA",
+      "countryCode": "US",
+      "latitude": 0,
+      "longitude": 0,
+      "state": "NV",
+      "streetNumber": "",
+      "zipCode": "33445"
+    },
+    "uuid": "b1169e68-da9a-11e7-a6c2-1b5d67d3d955",
+    "name": "CozyCorner",
+    "createdAt": "2016-01-01T00:00:00Z",
+    "currencyType": "EUR"
+  }
+]

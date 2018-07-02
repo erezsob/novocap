@@ -1,0 +1,16 @@
+@value defaultText from '../../../common/variables.css';
+
+.item {
+    padding-right: 7px;
+    padding-left: 7px;
+    border-right: 1px solid defaultText;
+}
+
+.item:first-of-type {
+    padding-left: 0;
+}
+
+.item:last-of-type {
+    padding-right: 0;
+    border-right: inherit;
+}

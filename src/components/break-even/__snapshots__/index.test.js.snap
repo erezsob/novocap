@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BreakEven /> renders properly 1`] = `
+<div
+  className="MuiPaper-root-3 MuiPaper-elevation2-7 MuiPaper-rounded-4 BreakEven-card-1"
+  onClick={[Function]}
+>
+  <div
+    className="container"
+  >
+    <div
+      className="title"
+    >
+      <div>
+        Break Even
+      </div>
+      <div
+        className="date"
+      />
+    </div>
+    <button
+      aria-label="Info icon"
+      className="MuiButtonBase-root-36 MuiIconButton-root-30 BreakEven-iconButton-2"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label-35"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-39"
+          color={undefined}
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zM11 9h2V7h-2v2z"
+          />
+        </svg>
+      </span>
+      <span
+        className="MuiTouchRipple-root-45"
+      />
+    </button>
+  </div>
+  <div
+    className="barContainer"
+  >
+    <div
+      className="addCosts"
+    >
+      Please add costs
+    </div>
+  </div>
+</div>
+`;

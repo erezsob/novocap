@@ -1,0 +1,17 @@
+.total {
+    color: #1a1a1a;
+    position: absolute;
+    font-size: 22px;
+    left: 0;
+    text-align: center;
+    top: 124px;
+    right: 0;
+}
+
+.chart {
+    margin: 0 auto;
+}
+
+.chart > svg {
+    padding: 10px;
+}

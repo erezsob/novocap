@@ -1,0 +1,59 @@
+@value defaultText, grayBg, blueDark from '../../common/variables.css';
+
+.pages {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.pages > li {
+    background-color: white;
+    color: defaultText;
+}
+
+.pages > li:first-child {
+    border-radius: 4px 0 0 4px;
+}
+
+.pages > li:last-child {
+    border-radius: 0 4px 4px 0;
+}
+
+.pages > li:nth-child(2n)  {
+    background-color: grayBg;
+}
+
+.link {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    font-size: 15px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+}
+
+.number {
+    composes: link;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.3;
+}
+
+.selected:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: blueDark;
+}
+
+.icon {
+    position: relative;
+    top: 6px;
+}

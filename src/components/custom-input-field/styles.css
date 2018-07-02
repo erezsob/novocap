@@ -1,0 +1,48 @@
+@value offWhite, defaultText, errorText, gainsboro from './../../common/variables.css';
+
+.container {
+    display: table;
+    width: 100%;
+    border-radius: 6px;
+    background-color: offWhite;
+    padding: 2px;
+    margin-bottom: 14px;
+}
+
+.label,
+.inputContainer {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.label {
+    width: 40px;
+    text-align: center;
+    color: defaultText;
+    transition: color 0.2s ease-in-out;
+}
+
+.input,
+.error {
+    display: block;
+}
+
+.input {
+    padding: 10px;
+    border: 1px solid transparent;
+    transition: border-color 0.3s ease-in-out;
+    outline: none;
+    font-size: 15px;
+    width: 215px;
+    box-sizing: border-box;
+}
+
+.input:focus {
+    border-color: gainsboro;
+}
+
+.error .label,
+.error .input::placeholder {
+    color: errorText;
+}
+

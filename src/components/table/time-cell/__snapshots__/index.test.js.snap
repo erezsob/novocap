@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TimeCell /> renders properly 1`] = `
+<span>
+  <span
+    className="dateMonth"
+  >
+    30. May
+  </span>
+  <span
+    className="dateHours"
+  >
+    19:37
+    h
+  </span>
+</span>
+`;

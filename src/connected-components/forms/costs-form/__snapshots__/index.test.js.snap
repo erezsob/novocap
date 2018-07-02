@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CostsForm /> renders connected component properly 1`] = `
+<form
+  onSubmit={undefined}
+>
+  <div
+    className="contentWrapper"
+  >
+    <div
+      className="contentText"
+    >
+      Check all this content
+    </div>
+    <div>
+      <div
+        aria-describedby={undefined}
+        className="MuiFormControl-root-1 MuiFormControl-marginDense-3 MuiFormControl-fullWidth-4 textField"
+        onBlur={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onFocus={[Function]}
+      >
+        <label
+          className="MuiFormLabel-root-11 MuiInputLabel-root-5 MuiInputLabel-formControl-6 MuiInputLabel-animated-9 MuiInputLabel-marginDense-7"
+          data-shrink={false}
+          htmlFor={undefined}
+        >
+          LabelText
+        </label>
+        <div
+          className="MuiInput-root-17 MuiInput-fullWidth-24 MuiInput-formControl-18 MuiInput-underline-21"
+        >
+          <input
+            aria-invalid={false}
+            aria-required={false}
+            autoComplete={undefined}
+            autoFocus={undefined}
+            className="MuiInput-input-25 MuiInput-inputType-29 MuiInput-inputMarginDense-26"
+            defaultValue={undefined}
+            disabled={false}
+            id={undefined}
+            name="costs"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyDown={undefined}
+            onKeyUp={undefined}
+            placeholder={undefined}
+            readOnly={undefined}
+            required={undefined}
+            rows={undefined}
+            type="number"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="buttons"
+  >
+    <button
+      className="MuiButtonBase-root-47 MuiButton-root-32 CancelButton-cancel-31"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="MuiButton-label-33"
+      >
+        Cancel
+      </span>
+      <span
+        className="MuiTouchRipple-root-50"
+      />
+    </button>
+    <button
+      className="MuiButtonBase-root-47 MuiButton-root-32 SubmitButton-submit-57"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="submit"
+    >
+      <span
+        className="MuiButton-label-33"
+      >
+        Save
+      </span>
+      <span
+        className="MuiTouchRipple-root-50"
+      />
+    </button>
+  </div>
+</form>
+`;

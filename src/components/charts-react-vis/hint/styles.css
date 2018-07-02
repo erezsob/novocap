@@ -1,0 +1,21 @@
+.hint {
+    background: white;
+    text-align: center;
+    padding: 8px 24px;
+    font-size: 12px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 1px 2px 4px 0 #bdbdbd;
+}
+.small {
+    color: #767676;
+    margin-bottom: 5px;
+    letter-spacing: 0.05em;
+}
+
+.value {
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 0.05em;
+    color: #323435;
+}

@@ -1,0 +1,2459 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InvoicesGrid /> renders properly 1`] = `
+<div>
+  <div
+    className="ReactTable -striped"
+    style={Object {}}
+  >
+    <div
+      className="rt-table"
+      role="grid"
+      style={undefined}
+    >
+      <div
+        className="rt-thead -header"
+        style={
+          Object {
+            "minWidth": "450px",
+          }
+        }
+      >
+        <div
+          className="rt-tr"
+          role="row"
+          style={undefined}
+        >
+          <div
+            className="rt-th"
+            onClick={[Function]}
+            role="columnheader"
+            style={
+              Object {
+                "flex": "100 0 auto",
+                "maxWidth": null,
+                "width": "100px",
+              }
+            }
+            tabIndex="-1"
+          >
+            <div
+              className=""
+            >
+              Date
+            </div>
+          </div>
+          <div
+            className="rt-th"
+            onClick={[Function]}
+            role="columnheader"
+            style={
+              Object {
+                "flex": "70 0 auto",
+                "maxWidth": null,
+                "width": "70px",
+              }
+            }
+            tabIndex="-1"
+          >
+            <div
+              className=""
+            >
+              Invoice Number
+            </div>
+          </div>
+          <div
+            className="rt-th"
+            onClick={[Function]}
+            role="columnheader"
+            style={
+              Object {
+                "flex": "70 0 auto",
+                "maxWidth": null,
+                "width": "70px",
+              }
+            }
+            tabIndex="-1"
+          >
+            <div
+              className=""
+            >
+              Amount
+            </div>
+          </div>
+          <div
+            className="rt-th"
+            onClick={[Function]}
+            role="columnheader"
+            style={
+              Object {
+                "flex": "70 0 auto",
+                "maxWidth": null,
+                "width": "70px",
+              }
+            }
+            tabIndex="-1"
+          >
+            <div
+              className=""
+            >
+              Table
+            </div>
+          </div>
+          <div
+            className="rt-th"
+            onClick={[Function]}
+            role="columnheader"
+            style={
+              Object {
+                "flex": "70 0 auto",
+                "maxWidth": null,
+                "width": "70px",
+              }
+            }
+            tabIndex="-1"
+          >
+            <div
+              className=""
+            >
+              User
+            </div>
+          </div>
+          <div
+            className="rt-th"
+            onClick={[Function]}
+            role="columnheader"
+            style={
+              Object {
+                "flex": "70 0 auto",
+                "maxWidth": null,
+                "width": "70px",
+              }
+            }
+            tabIndex="-1"
+          >
+            <div
+              className=""
+            >
+              Payment Type
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="rt-tbody"
+        style={
+          Object {
+            "minWidth": "450px",
+          }
+        }
+      >
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -odd"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  30. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  23:44
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              150-0
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 28.86
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 1
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Waitress Charlotte
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -even"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  30. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  21:13
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              150-12
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 34.75
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 1
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Waitress Katy
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -odd"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  30. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  21:09
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              150-3
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 28.59
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 1
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Manager Javier
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -even"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  30. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  18:41
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              150-5
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 46.17
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 1
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Manager Javier
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -odd"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  30. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  17:18
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              150-7
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 57.13
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Counter
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Waitress Katy
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  EC old
+                </span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -even"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  30. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  10:37
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              150-6
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 37.24
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 1
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Waitress Charlotte
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -odd"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  30. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  03:23
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              150-4
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 18.88
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 1
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Manager Johnny
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -even"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  30. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  03:13
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              150-11
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 35.15
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Counter
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Manager Javier
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -odd"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  30. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  02:39
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              150-14
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 36.04
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 2
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Manager Aletta
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -even"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  30. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  00:02
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              150-10
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 46.11
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 3
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Waitress Katy
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -odd"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  29. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  22:33
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              149-2
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 45.62
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 2
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Manager Javier
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -even"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  29. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  21:26
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              149-6
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 28.17
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 3
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Waitress Charlotte
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -odd"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  29. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  21:16
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              149-1
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 21.46
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 3
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Manager Javier
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -even"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  29. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  20:20
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              149-17
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 57.95
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 2
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Waitress Katy
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -odd"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  29. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  18:21
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              149-10
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 30.16
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 1
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Manager Aletta
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+                <span
+                  className="item"
+                >
+                  EC old
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -even"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  29. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  17:23
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              149-13
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 38.57
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 2
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Waitress Katy
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -odd"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  29. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  12:01
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              149-7
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 53.46
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 3
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Waitress Katy
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -even"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  29. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  06:07
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              149-3
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 59.39
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 1 old
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Manager Javier
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+                <span
+                  className="item"
+                >
+                  Cash
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -odd"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  29. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  04:13
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              149-0
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 48.38
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Table 2
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Chef Vincent
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="rt-tr-group"
+          role="rowgroup"
+        >
+          <div
+            className="rt-tr -even"
+            role="row"
+            style={undefined}
+          >
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "100 0 auto",
+                  "maxWidth": null,
+                  "width": "100px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="dateMonth"
+                >
+                  29. May
+                </span>
+                <span
+                  className="dateHours"
+                >
+                  03:37
+                  h
+                </span>
+              </span>
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              149-5
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              € 41.76
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Counter
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              Manager Javier
+            </div>
+            <div
+              className="rt-td"
+              onClick={[Function]}
+              role="gridcell"
+              style={
+                Object {
+                  "flex": "70 0 auto",
+                  "maxWidth": null,
+                  "width": "70px",
+                }
+              }
+            >
+              <span>
+                <span
+                  className="item"
+                >
+                  EC
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="-loading"
+    >
+      <div
+        className="-loading-inner"
+      >
+        Loading...
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VenueItem /> renders properly 1`] = `
+<div
+  className="box"
+>
+  <div
+    className="label"
+  />
+  <div
+    className="field"
+  />
+</div>
+`;

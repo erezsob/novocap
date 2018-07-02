@@ -1,0 +1,47 @@
+@value blueLight, bpXSmall from '../../../common/variables.css';
+
+.button {
+    border-radius: 4px;
+    background-color: blueLight;
+    color: white;
+    padding: 8px 0;
+    font-size: 12px;
+    display: table;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+}
+
+.bigger {
+    padding: 10px 0;
+    font-size: 16px;
+}
+
+.icon,
+.text {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.text {
+    padding: 0 20px;
+    font-weight: lighter;
+}
+
+.icon ~ .text {
+    display: none;
+}
+
+.icon {
+    display: table-cell;
+    padding: 0 10px;
+    position: relative;
+    top: 2px;
+}
+
+@media (min-width: bpXSmall) and (min-device-width: bpXSmall) {
+    .icon ~ .text {
+        padding-left: 0;
+        display: table-cell;
+    }
+}

@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> renders properly 1`] = `
+<footer
+  className="footer"
+>
+  <div
+    className="legal"
+  >
+    <a
+      className="link"
+      href=""
+    >
+      Terms & Conditions
+    </a>
+    <a
+      className="link"
+      href=""
+    >
+      Imprint
+    </a>
+    <a
+      className="link"
+      href=""
+    >
+      Private Policy
+    </a>
+    <a
+      className="link"
+      href=""
+    >
+      Pricing
+    </a>
+    <a
+      className="link"
+      href=""
+    >
+      Support
+    </a>
+    <a
+      className="link"
+      href="http://www.orderbird.com"
+    >
+      orderbird.com
+    </a>
+  </div>
+  <div
+    className="languages"
+  >
+    <a
+      className="link currentLang"
+      href=""
+    >
+      English
+    </a>
+    <a
+      className="link"
+      href=""
+    >
+      Deutsch
+    </a>
+    <a
+      className="link"
+      href=""
+    >
+      Français
+    </a>
+  </div>
+  <div
+    className="company"
+  >
+    <div>
+      orderbird AG ©
+    </div>
+    <div>
+      2018
+    </div>
+  </div>
+</footer>
+`;

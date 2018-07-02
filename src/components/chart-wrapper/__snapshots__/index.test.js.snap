@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ChartWrapper /> renders correctly 1`] = `
+<div
+  className="container"
+>
+  <dummy-child />
+</div>
+`;

@@ -1,0 +1,5 @@
+@value greyDark from '../../common/variables.css';
+
+.title {
+    border-bottom: 1px solid greyDark;
+}

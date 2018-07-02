@@ -1,0 +1,28 @@
+@value defaultText, newBlack, gray74 from '../../../common/variables.css';
+
+.ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.box {
+    composes: roundedWhiteBox from '../styles.css';
+}
+
+.label {
+    composes: ellipsis;
+    color: newBlack;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.field {
+    composes: ellipsis;
+    font-size: 16px;
+    height: 16px;
+    color: defaultText;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray74;
+}

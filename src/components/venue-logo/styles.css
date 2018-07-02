@@ -1,0 +1,36 @@
+@value
+grey,
+defaultText,
+bottomShadow,
+venueLogoHeight,
+venueLogoWidth from '../../common/variables.css';
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    height: venueLogoHeight;
+    width: venueLogoWidth;
+    display: flex;
+    background-color: white;
+    border-right: 1px solid grey;
+    box-shadow: bottomShadow;
+    box-sizing: border-box;
+    z-index: 1;
+    position: relative;
+}
+
+.name {
+    composes: centered;
+    color: defaultText;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.logo {
+    composes: centered;
+    padding: 0 16px;
+}

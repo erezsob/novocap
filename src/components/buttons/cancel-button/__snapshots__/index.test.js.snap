@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CancelButton /> renders properly 1`] = `
+<button
+  className="MuiButtonBase-root-17 MuiButton-root-2 CancelButton-cancel-1"
+  disabled={false}
+  onBlur={[Function]}
+  onClick={[MockFunction]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex="0"
+  type="button"
+>
+  <span
+    className="MuiButton-label-3"
+  >
+    Cancel
+  </span>
+  <span
+    className="MuiTouchRipple-root-20"
+  />
+</button>
+`;

@@ -1,0 +1,53 @@
+[
+  {
+    "superCategory": "food",
+    "revenues": [
+      {
+        "date": "2017-01-08",
+        "revenue": 7616.81
+      },
+      {
+        "date": "2017-01-15",
+        "revenue": 3152.71
+      },
+      {
+        "date": "2017-01-22",
+        "revenue": 6405.97
+      }
+    ]
+  },
+  {
+    "superCategory": "drinks",
+    "revenues": [
+      {
+        "date": "2017-01-08",
+        "revenue": 5575.03
+      },
+      {
+        "date": "2017-01-15",
+        "revenue": 6616.96
+      },
+      {
+        "date": "2017-01-22",
+        "revenue": 3434.25
+      }
+    ]
+  },
+  {
+    "superCategory": "other",
+    "revenues": [
+      {
+        "date": "2017-01-08",
+        "revenue": 4902.34
+      },
+      {
+        "date": "2017-01-15",
+        "revenue": 5580.02
+      },
+      {
+        "date": "2017-01-22",
+        "revenue": 0.00
+      }
+    ]
+  }
+]

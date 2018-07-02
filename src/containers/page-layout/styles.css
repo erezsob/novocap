@@ -1,0 +1,19 @@
+@value zIndexMax from '../../common/variables.css';
+
+.page {
+    display: flex;
+}
+
+.rightContainer {
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+}
+
+.progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: zIndexMax;
+}

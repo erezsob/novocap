@@ -1,0 +1,697 @@
+{
+  "page": 1,
+  "size": 20,
+  "totalElements": 1408,
+  "totalPages": 71,
+  "elements": [
+    {
+      "uuid": "0d8028f2-641a-4e09-9e8d-4b3a28ebd1b6",
+      "createdAt": "2017-05-30T23:44:30Z",
+      "closedAt": "2017-05-30T23:54:30Z",
+      "netAmount": 24.26,
+      "taxAmount": 4.60,
+      "discountAmount": 0.00,
+      "invoiceNumber": "150-0",
+      "table": {
+        "oid": {
+          "uuid": "b1169e68-da9a-11e7-a6c2-1b5d67d3d958",
+          "version": 2
+        },
+        "name": "Table 1"
+      },
+      "user": {
+        "oid": {
+          "uuid": "176ce72f-8ce8-427f-b128-9d9eda362bc1",
+          "version": 1
+        },
+        "name": "Waitress Charlotte"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "b772ebf3-84f1-4d60-9943-a62a7aef58a4",
+      "createdAt": "2017-05-30T21:13:34Z",
+      "closedAt": "2017-05-30T21:23:34Z",
+      "netAmount": 29.21,
+      "taxAmount": 5.54,
+      "discountAmount": 0.00,
+      "invoiceNumber": "150-12",
+      "table": {
+        "oid": {
+          "uuid": "b1169e68-da9a-11e7-a6c2-1b5d67d3d958",
+          "version": 2
+        },
+        "name": "Table 1"
+      },
+      "user": {
+        "oid": {
+          "uuid": "b5f796af-98cb-41b9-83e3-22bffdfe2201",
+          "version": 2
+        },
+        "name": "Waitress Katy"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        }
+      ]
+    },
+    {
+      "uuid": "eebb9b8d-72c0-40ea-9b6b-a923abe725c0",
+      "createdAt": "2017-05-30T21:09:30Z",
+      "closedAt": "2017-05-30T21:19:30Z",
+      "netAmount": 24.03,
+      "taxAmount": 4.56,
+      "discountAmount": 0.00,
+      "invoiceNumber": "150-3",
+      "table": {
+        "oid": {
+          "uuid": "b1169e68-da9a-11e7-a6c2-1b5d67d3d958",
+          "version": 2
+        },
+        "name": "Table 1"
+      },
+      "user": {
+        "oid": {
+          "uuid": "78f58374-ebab-4688-ac88-ad0d81288a6d",
+          "version": 3
+        },
+        "name": "Manager Javier"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        }
+      ]
+    },
+    {
+      "uuid": "4d904827-ff71-4681-aebe-4adda96476a8",
+      "createdAt": "2017-05-30T18:41:17Z",
+      "closedAt": "2017-05-30T18:51:17Z",
+      "netAmount": 38.80,
+      "taxAmount": 7.37,
+      "discountAmount": 1.26,
+      "invoiceNumber": "150-5",
+      "table": {
+        "oid": {
+          "uuid": "b1169e68-da9a-11e7-a6c2-1b5d67d3d958",
+          "version": 2
+        },
+        "name": "Table 1"
+      },
+      "user": {
+        "oid": {
+          "uuid": "78f58374-ebab-4688-ac88-ad0d81288a6d",
+          "version": 3
+        },
+        "name": "Manager Javier"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "dd97ee13-bebd-414b-ac92-df393374216d",
+      "createdAt": "2017-05-30T17:18:20Z",
+      "closedAt": "2017-05-30T17:28:20Z",
+      "netAmount": 48.01,
+      "taxAmount": 9.12,
+      "discountAmount": 0.00,
+      "invoiceNumber": "150-7",
+      "table": {
+        "oid": {
+          "uuid": "33af8e84-da8c-11e7-8ddc-befe130a817e",
+          "version": 1
+        },
+        "name": "Counter"
+      },
+      "user": {
+        "oid": {
+          "uuid": "b5f796af-98cb-41b9-83e3-22bffdfe2201",
+          "version": 2
+        },
+        "name": "Waitress Katy"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 1
+          },
+          "name": "EC old"
+        },
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        }
+      ]
+    },
+    {
+      "uuid": "4ebf3b5f-a920-4a4a-899e-aeb8a882a255",
+      "createdAt": "2017-05-30T10:37:00Z",
+      "closedAt": "2017-05-30T10:47:00Z",
+      "netAmount": 31.30,
+      "taxAmount": 5.94,
+      "discountAmount": 0.00,
+      "invoiceNumber": "150-6",
+      "table": {
+        "oid": {
+          "uuid": "b1169e68-da9a-11e7-a6c2-1b5d67d3d958",
+          "version": 2
+        },
+        "name": "Table 1"
+      },
+      "user": {
+        "oid": {
+          "uuid": "176ce72f-8ce8-427f-b128-9d9eda362bc1",
+          "version": 1
+        },
+        "name": "Waitress Charlotte"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "9c136c3b-6d99-41c6-8b80-161b591033ef",
+      "createdAt": "2017-05-30T03:23:09Z",
+      "closedAt": "2017-05-30T03:33:09Z",
+      "netAmount": 15.87,
+      "taxAmount": 3.01,
+      "discountAmount": 0.79,
+      "invoiceNumber": "150-4",
+      "table": {
+        "oid": {
+          "uuid": "b1169e68-da9a-11e7-a6c2-1b5d67d3d958",
+          "version": 2
+        },
+        "name": "Table 1"
+      },
+      "user": {
+        "oid": {
+          "uuid": "78f58374-ebab-4688-ac88-ad0d81288a6d",
+          "version": 2
+        },
+        "name": "Manager Johnny"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        }
+      ]
+    },
+    {
+      "uuid": "39b50fef-7951-4ed2-8d65-aa04aca86a05",
+      "createdAt": "2017-05-30T03:13:31Z",
+      "closedAt": "2017-05-30T03:23:31Z",
+      "netAmount": 29.54,
+      "taxAmount": 5.61,
+      "discountAmount": 0.00,
+      "invoiceNumber": "150-11",
+      "table": {
+        "oid": {
+          "uuid": "33af8e84-da8c-11e7-8ddc-befe130a817e",
+          "version": 1
+        },
+        "name": "Counter"
+      },
+      "user": {
+        "oid": {
+          "uuid": "78f58374-ebab-4688-ac88-ad0d81288a6d",
+          "version": 3
+        },
+        "name": "Manager Javier"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        },
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "dd3e65d7-97fb-44eb-9fcf-b5d030634c30",
+      "createdAt": "2017-05-30T02:39:50Z",
+      "closedAt": "2017-05-30T02:49:50Z",
+      "netAmount": 30.29,
+      "taxAmount": 5.75,
+      "discountAmount": 0.00,
+      "invoiceNumber": "150-14",
+      "table": {
+        "oid": {
+          "uuid": "33af8e84-da8c-11e7-8ddc-befe130a817e",
+          "version": 3
+        },
+        "name": "Table 2"
+      },
+      "user": {
+        "oid": {
+          "uuid": "78f58374-ebab-4688-ac88-ad0d81288a6d",
+          "version": 1
+        },
+        "name": "Manager Aletta"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "1b23717f-2ff6-4b3d-a3ab-5ba8024f5bd7",
+      "createdAt": "2017-05-30T00:02:04Z",
+      "closedAt": "2017-05-30T00:12:04Z",
+      "netAmount": 38.75,
+      "taxAmount": 7.36,
+      "discountAmount": 2.91,
+      "invoiceNumber": "150-10",
+      "table": {
+        "oid": {
+          "uuid": "ec85ba78-3562-4374-99bc-7382fa8dda3f",
+          "version": 1
+        },
+        "name": "Table 3"
+      },
+      "user": {
+        "oid": {
+          "uuid": "b5f796af-98cb-41b9-83e3-22bffdfe2201",
+          "version": 2
+        },
+        "name": "Waitress Katy"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        },
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        }
+      ]
+    },
+    {
+      "uuid": "b2ebadc3-c46a-4784-9572-34e5d3072818",
+      "createdAt": "2017-05-29T22:33:25Z",
+      "closedAt": "2017-05-29T22:43:25Z",
+      "netAmount": 38.34,
+      "taxAmount": 7.28,
+      "discountAmount": 0.00,
+      "invoiceNumber": "149-2",
+      "table": {
+        "oid": {
+          "uuid": "33af8e84-da8c-11e7-8ddc-befe130a817e",
+          "version": 3
+        },
+        "name": "Table 2"
+      },
+      "user": {
+        "oid": {
+          "uuid": "78f58374-ebab-4688-ac88-ad0d81288a6d",
+          "version": 3
+        },
+        "name": "Manager Javier"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "7fca7242-4b51-4651-a85b-7cb6bf6f3a85",
+      "createdAt": "2017-05-29T21:26:34Z",
+      "closedAt": "2017-05-29T21:36:34Z",
+      "netAmount": 23.68,
+      "taxAmount": 4.49,
+      "discountAmount": 0.00,
+      "invoiceNumber": "149-6",
+      "table": {
+        "oid": {
+          "uuid": "ec85ba78-3562-4374-99bc-7382fa8dda3f",
+          "version": 1
+        },
+        "name": "Table 3"
+      },
+      "user": {
+        "oid": {
+          "uuid": "176ce72f-8ce8-427f-b128-9d9eda362bc1",
+          "version": 1
+        },
+        "name": "Waitress Charlotte"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        },
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        }
+      ]
+    },
+    {
+      "uuid": "74073dc5-9786-4a30-8c1a-64453474ff0c",
+      "createdAt": "2017-05-29T21:16:38Z",
+      "closedAt": "2017-05-29T21:26:38Z",
+      "netAmount": 18.04,
+      "taxAmount": 3.42,
+      "discountAmount": 0.00,
+      "invoiceNumber": "149-1",
+      "table": {
+        "oid": {
+          "uuid": "ec85ba78-3562-4374-99bc-7382fa8dda3f",
+          "version": 1
+        },
+        "name": "Table 3"
+      },
+      "user": {
+        "oid": {
+          "uuid": "78f58374-ebab-4688-ac88-ad0d81288a6d",
+          "version": 3
+        },
+        "name": "Manager Javier"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "a6e83f61-305d-415a-9c12-fd54f22da772",
+      "createdAt": "2017-05-29T20:20:21Z",
+      "closedAt": "2017-05-29T20:30:21Z",
+      "netAmount": 48.70,
+      "taxAmount": 9.25,
+      "discountAmount": 0.00,
+      "invoiceNumber": "149-17",
+      "table": {
+        "oid": {
+          "uuid": "33af8e84-da8c-11e7-8ddc-befe130a817e",
+          "version": 3
+        },
+        "name": "Table 2"
+      },
+      "user": {
+        "oid": {
+          "uuid": "b5f796af-98cb-41b9-83e3-22bffdfe2201",
+          "version": 2
+        },
+        "name": "Waitress Katy"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "9e6df76c-7694-4160-a33d-19767ba7e636",
+      "createdAt": "2017-05-29T18:21:37Z",
+      "closedAt": "2017-05-29T18:31:37Z",
+      "netAmount": 25.35,
+      "taxAmount": 4.81,
+      "discountAmount": 0.97,
+      "invoiceNumber": "149-10",
+      "table": {
+        "oid": {
+          "uuid": "b1169e68-da9a-11e7-a6c2-1b5d67d3d958",
+          "version": 2
+        },
+        "name": "Table 1"
+      },
+      "user": {
+        "oid": {
+          "uuid": "78f58374-ebab-4688-ac88-ad0d81288a6d",
+          "version": 1
+        },
+        "name": "Manager Aletta"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        },
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 1
+          },
+          "name": "EC old"
+        }
+      ]
+    },
+    {
+      "uuid": "49fa78b2-6e67-4769-9a32-13b05d5d351c",
+      "createdAt": "2017-05-29T17:23:31Z",
+      "closedAt": "2017-05-29T17:33:31Z",
+      "netAmount": 32.42,
+      "taxAmount": 6.15,
+      "discountAmount": 0.00,
+      "invoiceNumber": "149-13",
+      "table": {
+        "oid": {
+          "uuid": "33af8e84-da8c-11e7-8ddc-befe130a817e",
+          "version": 3
+        },
+        "name": "Table 2"
+      },
+      "user": {
+        "oid": {
+          "uuid": "b5f796af-98cb-41b9-83e3-22bffdfe2201",
+          "version": 2
+        },
+        "name": "Waitress Katy"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        },
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "bd60a718-c16c-43db-8a08-a51564bebddf",
+      "createdAt": "2017-05-29T12:01:22Z",
+      "closedAt": "2017-05-29T12:11:22Z",
+      "netAmount": 44.93,
+      "taxAmount": 8.53,
+      "discountAmount": 1.75,
+      "invoiceNumber": "149-7",
+      "table": {
+        "oid": {
+          "uuid": "ec85ba78-3562-4374-99bc-7382fa8dda3f",
+          "version": 1
+        },
+        "name": "Table 3"
+      },
+      "user": {
+        "oid": {
+          "uuid": "b5f796af-98cb-41b9-83e3-22bffdfe2201",
+          "version": 2
+        },
+        "name": "Waitress Katy"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "597c0667-9ea8-4b40-b2de-49d29cb52d21",
+      "createdAt": "2017-05-29T06:07:25Z",
+      "closedAt": "2017-05-29T06:17:25Z",
+      "netAmount": 49.91,
+      "taxAmount": 9.48,
+      "discountAmount": 0.50,
+      "invoiceNumber": "149-3",
+      "table": {
+        "oid": {
+          "uuid": "b1169e68-da9a-11e7-a6c2-1b5d67d3d958",
+          "version": 1
+        },
+        "name": "Table 1 old"
+      },
+      "user": {
+        "oid": {
+          "uuid": "78f58374-ebab-4688-ac88-ad0d81288a6d",
+          "version": 3
+        },
+        "name": "Manager Javier"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        },
+        {
+          "oid": {
+            "uuid": "c3546418-5529-4935-81e3-b4052910bb43",
+            "version": 1
+          },
+          "name": "Cash"
+        }
+      ]
+    },
+    {
+      "uuid": "33bb8e09-8bbe-46d4-8bbf-a321f4ff79bb",
+      "createdAt": "2017-05-29T04:13:46Z",
+      "closedAt": "2017-05-29T04:23:46Z",
+      "netAmount": 40.66,
+      "taxAmount": 7.72,
+      "discountAmount": 0.00,
+      "invoiceNumber": "149-0",
+      "table": {
+        "oid": {
+          "uuid": "33af8e84-da8c-11e7-8ddc-befe130a817e",
+          "version": 3
+        },
+        "name": "Table 2"
+      },
+      "user": {
+        "oid": {
+          "uuid": "b5f796af-98cb-41b9-83e3-22bffdfe2201",
+          "version": 1
+        },
+        "name": "Chef Vincent"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        }
+      ]
+    },
+    {
+      "uuid": "326e0496-82ec-4a3b-98da-54a55edfc255",
+      "createdAt": "2017-05-29T03:37:54Z",
+      "closedAt": "2017-05-29T03:47:54Z",
+      "netAmount": 35.10,
+      "taxAmount": 6.66,
+      "discountAmount": 0.00,
+      "invoiceNumber": "149-5",
+      "table": {
+        "oid": {
+          "uuid": "33af8e84-da8c-11e7-8ddc-befe130a817e",
+          "version": 1
+        },
+        "name": "Counter"
+      },
+      "user": {
+        "oid": {
+          "uuid": "78f58374-ebab-4688-ac88-ad0d81288a6d",
+          "version": 3
+        },
+        "name": "Manager Javier"
+      },
+      "paymentTypes": [
+        {
+          "oid": {
+            "uuid": "f02913d6-59a2-407f-85c0-e528124c4524",
+            "version": 2
+          },
+          "name": "EC"
+        }
+      ]
+    }
+  ]
+}

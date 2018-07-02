@@ -1,0 +1,60 @@
+/* Colors */
+@value grayBg #f9f9f9;
+@value blueMain #7ac0f8;
+@value blueLight #6bb8e9;
+@value blueDark #00a3e0;
+@value blueText #01426A;
+@value grey #f7f7f7;
+@value offWhite #f2f1ef;
+@value gray98 #fafafa;
+@value greyDark #979797;
+@value defaultText #767676;
+@value gray51 #828282;
+@value blackLight rgba(0, 0, 0, 0.5);
+@value washedOutWhite rgba(255, 255, 255, 0.9);
+@value greenGrass #25a535;
+@value pinkyRed #fd7a7a;
+@value gainsboro #d8d8d8;
+@value errorText #c54949;
+@value errorBg #f5e7e7;
+@value warningText #c58249;
+@value warningBg #f5f5e7;
+@value successText #4cc549;
+@value successBg #eaf5e7;
+@value red200 #FF5252;
+@value greenAtlantis #abe381;
+@value grayStatic #e6e6e6;
+@value newBlack #323435;
+@value gray74 #bdbdbd;
+@value sidebarGrey #fcfcfc;
+@value otherBlue #f6fdff;
+@value footerBlue #f0f7fc;
+
+/* Breakpoints */
+@value bpXSmall 480px;
+@value bpSmall 600px;
+@value bpSMedium 840px;
+@value bpMedium 960px;
+@value bpLarge 1276px;
+
+@value zIndexMax 9999;
+@value zIndexAlmostMax 9998;
+@value zIndexMin 0;
+@value zIndexNotification 1101;
+
+@value fullVPHeight 100vh;
+@value fullVPWidth 100vw;
+
+@value headerHeight 64px;
+
+@value venueLogoHeight headerHeight;
+@value venueLogoWidth 240px;
+
+@value sidebarTransformMin -240px;
+@value sidebarTransformMax 0;
+@value sidebarTransition 0.4s;
+
+@value dashboardMenuItemHeight 48px;
+
+@value bottomShadow 0 3px 4px -1px gray74;
+

@@ -1,0 +1,60 @@
+@value defaultText, footerBlue, blueDark from './../../common/variables.css';
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    height: 260px;
+    width: 100%;
+    background-color: footerBlue;
+    text-align: center;
+    justify-content: center;
+    box-sizing: border-box;
+    color: defaultText;
+}
+
+.legal,
+.languages {
+    color: blueDark;
+}
+
+.legal {
+    margin-bottom: 60px;
+}
+
+.languages {
+    margin-bottom: 20px;
+}
+
+.footer .currentLang {
+    pointer-events: none;
+    color: defaultText;
+}
+
+.languages .link,
+.company {
+    font-size: 12px;
+    letter-spacing: 0;
+}
+
+.link {
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    padding: 0 5px 0 6px;
+    position: relative;
+}
+
+.link:after {
+    content: '|';
+    color: defaultText;
+    margin-left: 5px;
+    position: absolute;
+    font-size: 12px;
+    right: -5px;
+    top: 3px;
+}
+
+.link:last-child:after {
+    content: '';
+}
+
+
